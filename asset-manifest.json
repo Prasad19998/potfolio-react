@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/potfolio-react/static/css/main.399ec1c5.css",
+    "main.js": "/potfolio-react/static/js/main.cc63b2b6.js",
+    "static/media/image.png": "/potfolio-react/static/media/image.0706ed46594ea9c58e8d.png",
+    "static/media/portfolio-6.png": "/potfolio-react/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/potfolio-react/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/potfolio-react/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/potfolio-react/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/potfolio-react/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/potfolio-react/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/logo.png": "/potfolio-react/static/media/logo.70cfb0b54998923b96ec.png",
+    "static/media/ui-design.png": "/potfolio-react/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/potfolio-react/index.html",
+    "main.399ec1c5.css.map": "/potfolio-react/static/css/main.399ec1c5.css.map",
+    "main.cc63b2b6.js.map": "/potfolio-react/static/js/main.cc63b2b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399ec1c5.css",
+    "static/js/main.cc63b2b6.js"
+  ]
+}
